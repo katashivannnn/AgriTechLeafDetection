@@ -1,7 +1,7 @@
-
 fastapi
 uvicorn[standard]
 ultralytics
+onnx
 onnxruntime
 python-multipart
 huggingface_hub
